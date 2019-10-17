@@ -1,0 +1,73 @@
+      .con {
+          color: #fff;
+      }
+      
+      .fa {
+          font-size: 35px;
+          color: #708A97;
+      }
+      
+      .ud-content .ud-con .ud-con-d {
+          width: 98%;
+          padding: 20px;
+          background-color: #fff;
+          color: #708A97;
+          font-weight: 900px;
+          font-size: 16px;
+          border-radius: 5px;
+          position: relative;
+          margin-bottom: 20px;
+      }
+      
+      .ud-con h1 {
+          font-size: 30px;
+      }
+      
+      .counter {
+          color: #0080FF;
+          font-size: 30px;
+          float: center;
+          padding: 5px;
+      }
+      
+      .last_login {
+          color: #0080FF;
+          font-size: 14px;
+          float: right;
+          font-family: sans-serif;
+          margin-top: -23px;
+          background-color: yellow;
+          padding: 5px;
+      }
+      
+      .menu-dash-u {
+          height: 200px;
+          padding: 20px;
+          width: 100%;
+          background: linear-gradient(to bottom, #0080FF 50%, #fff 100%);
+          position: relative;
+      }
+      
+      .u_icon_img {
+          height: 100px;
+          width: 100px;
+          padding: 5px;
+          border: 3px solid gold;
+          opacity: 0.9;
+          border-radius: 50%;
+      }
+      
+      .u_text {
+          margin-top: 5px;
+          padding: 2px;
+          background-color: rgba(25, 17, 21, 0.5);
+          width: 70%;
+          border: 0.5px solid grey;
+          opacity: 0.9;
+      }
+      
+      .u_text h1 {
+          padding: 1px;
+          color: #fff;
+          font-size: 14px;
+      }

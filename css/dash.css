@@ -1,0 +1,73 @@
+.white {
+    color: #fff;
+}
+
+.ud-content {
+    top: 10px;
+    left: 5px;
+    right: 0px;
+    bottom: 10px;
+}
+
+.menu-dash {
+    height: 580px;
+    width: 100%;
+    padding: 10px;
+}
+
+.item {
+    opacity: 0.9;
+    padding: 5px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    position: relative;
+    margin: 10px 0 0 0;
+    height: 100px;
+    width: 100%;
+    cursor: pointer;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.6), 0 4px 15px 0 rgba(0, 0, 0, 0.6);
+    background-blend-mode: screen;
+}
+
+.text {
+    text-transform: uppercase;
+    font-family: sans-serif, Helvetica;
+    font-size: 16px;
+    padding: 10px;
+    text-align: center;
+    color: #003BF0;
+    font-weight: 0.9;
+}
+
+.nav-bar {
+    color: #fff;
+    padding: 10px;
+    height: 50px;
+    background-color: #0080FF;
+}
+
+.img {
+    height: 50px;
+    width: 50px;
+    padding: 5px;
+}
+
+.dash-nav {
+    font-size: 20px;
+    font-family: sans-serif, Helvetica;
+    font-weight: 0.9;
+    margin-left: 20px;
+}
+
+.ud-content .ud-con {
+    background-color: #EBEDEF;
+    font-family: sans-serif, Helvetica;
+    font-size: 16px;
+    padding: 5px;
+}
+
+.text:hover {
+    color: #CA204A;
+    font-size: 17px;
+    transition: 0.7s;
+}

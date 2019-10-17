@@ -1,0 +1,108 @@
+      .con {
+          color: #fff;
+      }
+      
+      .fa {
+          font-size: 35px;
+          color: #708A97;
+      }
+      
+      .ud-content .ud-con .ud-con-d {
+          width: 98%;
+          padding: 20px;
+          background-color: #fff;
+          color: #708A97;
+          font-weight: 900px;
+          font-size: 16px;
+          border-radius: 5px;
+          position: relative;
+          margin-bottom: 20px;
+      }
+      
+      .ud-con h1 {
+          font-size: 30px;
+      }
+      
+      .counter {
+          color: #0080FF;
+          font-size: 30px;
+          float: center;
+          padding: 5px;
+      }
+      
+      .last_login {
+          color: #0080FF;
+          font-size: 14px;
+          float: right;
+          font-family: sans-serif;
+          margin-top: -23px;
+          background-color: yellow;
+          padding: 5px;
+      }
+      
+      .menu-dash-c {
+          height: 200px;
+          padding: 20px;
+          width: 100%;
+          background: linear-gradient(to bottom, #0080FF 50%, #fff 100%);
+          position: relative;
+          background-image: url('../icon/com.png');
+          background-size:90% 70%;
+          background-repeat: no-repeat;
+         
+          background-position: center;
+          opacity:0.9;
+        
+      }
+      .menu-dash-c:hover{
+        height: 200px;
+        padding: 20px;
+        width: 100%;
+        transition:all .5s;
+        background: linear-gradient(to bottom, #0080FF 50%, #fff 100%);
+        position: relative;
+        background-image: url('../icon/com.png');
+        background-size:95% 80%;
+        background-repeat: no-repeat;
+       
+        background-position: center;
+        opacity:0.9;
+      
+    }
+      
+      .u_icon_img {
+          height: 100px;
+          width: 100px;
+          padding: 5px;
+          border: 3px solid gold;
+          opacity: 0.9;
+          border-radius: 50%;
+      }
+      
+      .u_text {
+          margin-top: 100px;
+          padding: 5px;
+          background-color: rgba(25, 17, 21, 0.6);
+          width: 70%;
+          border: 0.5px solid grey;
+          opacity: 0.9;
+        
+      }
+      
+      .u_text h1 {
+          padding: 1px;
+          color: #fff;
+          font-size: 14px;
+      }
+      
+      .c_text_n p {
+          color: #005CB9;
+          font-family: Arial, Helvetica, sans-serif;
+          font-size: 30px;
+          margin-top: 5px;
+          text-shadow: 2px 2px 2px #3CD515, 4px 5px 6px #CA204A;
+          box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.6), 0 4px 15px 0 rgba(0, 0, 0, 0.6);
+          border-radius: 20px 20px 0 0;
+          overflow: hidden;
+          
+      }
